@@ -40,7 +40,7 @@ Você também verá os erros no console.
 
 ---
 
-## 💻/📱 Web
+## 💻 Web /📱 Mobile
 <p align="center">
 <img src="./src/assets/screen-1.png">
 ---
